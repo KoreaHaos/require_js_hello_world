@@ -1,2 +1,3 @@
-# require_js_hello_world
+# require.js hello world
+
 As it says.
