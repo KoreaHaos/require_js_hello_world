@@ -1,6 +1,6 @@
-define(function() {
+define(function () {
     return {
-        getHello: function() {
+        getHello: function () {
             return 'Hello World';
         }
     };
